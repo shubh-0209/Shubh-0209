@@ -4,7 +4,7 @@
 
 ## Hi There 👋
 
-I am Shubhdeep, an 18 y/o technology enthusiast pursuing B.Tech CSE from [Geeta University](https://geetauniversity.edu.in), residing in India.
+I am Shubhdeep, an 20 y/o technology enthusiast pursuing B.Tech CSE from [Geeta University](https://geetauniversity.edu.in), residing in India.
 
 ### 🌟 A bit more about me:
 
