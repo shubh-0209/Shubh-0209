@@ -9,7 +9,7 @@ I am Shubhdeep, an 20 y/o technology enthusiast pursuing B.Tech CSE from [Geeta 
 ### 🌟 A bit more about me:
 
 - 🔭 I’m currently working on [Small Projects](https://github.com/shubh-0209/ecovibe)
-- 🌱 I’m currently learning `C, PHP, JS`
+- 🌱 I’m currently learning `C++, Java Programming, MERN Stack`
 - 🤔 I’m looking for help with [Small Projects](https://github.com/shubh-0209/ecovibe)
 - 💬 Ask me about `Front-end Web Development`
 - 📫 How to reach me: shubhu0213@gmail.com
